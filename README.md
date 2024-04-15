@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maksik90025
-- 👀 I’m interested in sports and nutrition
+- 👀 I’m interested in sports and programming
 - 🌱 I’m currently learning in logic
 - 💞️ I’m looking to collaborate on for IT companies 
 - 📫 How to reach me ...
